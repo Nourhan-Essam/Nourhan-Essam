@@ -13,8 +13,8 @@
       <img src="https://api.iconify.design/logos:tiktok.svg" width="40" height="40" alt="TikTok" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/nourhan_897?igsh=YzZxejZxcWc1Z2No" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="40" height="40" alt="Instagram" style="filter: drop-shadow(0px 0px 2px #E4405F);" />
+   <a href="https://www.instagram.com/nourhan_897?igsh=YzZxejZxcWc1Z2No" target="_blank">
+      <img src="https://api.iconify.design/skill-icons:instagram.svg" width="40" height="40" alt="Instagram" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://wa.me/201099952041?text=Hello, I'm interested in your services" target="_blank">
