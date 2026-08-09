@@ -5,27 +5,17 @@
 ###
 
 <div align="center">
-  <p align="center">
-  <a href="https://www.linkedin.com/in/norhan-essam-552aa0252/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+ <p align="center">
+  <a href="https://www.linkedin.com/in/norhan-essam-552aa0252/"><img src="https://img.shields.io/badge/-%20LinkedIn-%230077B5?style=social&logo=linkedin"></a>
+  <a href="https://www.tiktok.com/music/original-sound-7669555275086564097?is_from_webapp=1&sender_device=pc"><img src="https://img.shields.io/badge/-%20TikTok-%23000000?style=social&logo=tiktok"></a>
+  <a href="https://www.instagram.com/nourhan_897?igsh=YzZxejZxcWc1Z2No"><img src="https://img.shields.io/badge/-%20Instagram-%23E4405F?style=social&logo=instagram"></a>
+</p>
   <a href="https://wa.me/201099952041?text=Hello, I'm interested in your services" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
   <a href="mailto:nourhanessam897@gmail.com?subject=Project Inquiry" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-
-  <!-- Instagram Badge -->
-<a href="https://www.instagram.com/nourhan_897?igsh=YzZxejZxcWc1Z2No" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-</a>
-
-<!-- TikTok Badge -->
-<a href="https://www.tiktok.com/music/original-sound-7669555275086564097?is_from_webapp=1&sender_device=pc" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok">
-</a>
-</p>
 </div>
 
 ###
