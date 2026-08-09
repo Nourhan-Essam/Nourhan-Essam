@@ -5,8 +5,9 @@
 ###
 
 <div align="center">
+  <p align="center">
   <a href="https://www.linkedin.com/in/norhan-essam-552aa0252/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://wa.me/201099952041?text=Hello, I'm interested in your services" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
@@ -21,9 +22,10 @@
 </a>
 
 <!-- TikTok Badge -->
-<a href="https://vt.tiktok.com/ZS4GV1XJ3/" target="_blank">
+<a href="https://www.tiktok.com/music/original-sound-7669555275086564097?is_from_webapp=1&sender_device=pc" target="_blank">
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok">
 </a>
+</p>
 </div>
 
 ###
