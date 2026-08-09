@@ -10,7 +10,7 @@
     </a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.tiktok.com/music/original-sound-7669555275086564097?is_from_webapp=1&sender_device=pc" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tiktok.svg" width="40" height="40" alt="TikTok" style="background-color: white; border-radius: 5px; padding: 4px;" />
+      <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white"></a>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.instagram.com/nourhan_897?igsh=YzZxejZxcWc1Z2No" target="_blank">
