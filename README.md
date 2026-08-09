@@ -7,26 +7,26 @@
 <div align="center">
   <p align="center">
     <a href="https://www.linkedin.com/in/norhan-essam-552aa0252/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.tiktok.com/music/original-sound-7669555275086564097?is_from_webapp=1&sender_device=pc" target="_blank">
-      <img src="https://skillicons.dev/icons?i=tiktok" height="35" alt="TikTok" />
+      <img src="https://img.shields.io/badge/-TikTok-%23000000?style=flat&logo=tiktok&logoColor=white" height="40" alt="TikTok" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/nourhan_897?igsh=YzZxejZxcWc1Z2No" target="_blank">
-      <img src="https://skillicons.dev/icons?i=instagram" height="35" alt="Instagram" />
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" height="40" alt="Instagram" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://wa.me/201099952041?text=Hello, I'm interested in your services" target="_blank">
-      <img src="https://skillicons.dev/icons?i=whatsapp" height="35" alt="WhatsApp" />
+      <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=flat&logo=whatsapp&logoColor=white" height="40" alt="WhatsApp" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:nourhanessam897@gmail.com?subject=Project Inquiry" target="_blank">
-      <img src="https://skillicons.dev/icons?i=gmail" height="35" alt="Gmail" />
+      <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=flat&logo=gmail&logoColor=white" height="40" alt="Gmail" />
     </a>
   </p>
-  <br>
+  <br><br>
 </div>
       
 
