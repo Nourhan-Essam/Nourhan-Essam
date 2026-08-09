@@ -6,9 +6,21 @@
 
 <div align="center">
  <p align="center">
-  <a href="https://www.linkedin.com/in/norhan-essam-552aa0252/"><img src="https://img.shields.io/badge/-%20LinkedIn-%230077B5?style=social&logo=linkedin"></a>
-  <a href="https://www.tiktok.com/music/original-sound-7669555275086564097?is_from_webapp=1&sender_device=pc"><img src="https://img.shields.io/badge/-%20TikTok-%23000000?style=social&logo=tiktok"></a>
-  <a href="https://www.instagram.com/nourhan_897?igsh=YzZxejZxcWc1Z2No"><img src="https://img.shields.io/badge/-%20Instagram-%23E4405F?style=social&logo=instagram"></a>
+  <a href="https://www.linkedin.com/in/norhan-essam-552aa0252/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
+  </a>
+  <a href="https://www.tiktok.com/music/original-sound-7669555275086564097?is_from_webapp=1&sender_device=pc" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="TikTok" height="35" width="35" />
+  </a>
+  <a href="https://www.instagram.com/nourhan_897?igsh=YzZxejZxcWc1Z2No" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="35" />
+  </a>
+  <a href="لينك_الواتساب" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-jpg/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="35" width="35" />
+  </a>
+  <a href="لينك_الجيميل" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="35" width="35" />
+  </a>
 </p>
   <a href="https://wa.me/201099952041?text=Hello, I'm interested in your services" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
