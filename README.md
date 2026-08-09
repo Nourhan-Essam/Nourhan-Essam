@@ -9,8 +9,8 @@
       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="40" height="40" alt="LinkedIn" />
     </a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="TikTok" height="32" width="32" />
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="TikTok" height="35" width="35" />
+  <a href="https://www.tiktok.com/music/original-sound-7669555275086564097?is_from_webapp=1&sender_device=pc" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="TikTok" height="32" width="32" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.instagram.com/nourhan_897?igsh=YzZxejZxcWc1Z2No" target="_blank">
