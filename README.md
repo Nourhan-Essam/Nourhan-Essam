@@ -15,10 +15,10 @@
   <a href="https://www.instagram.com/nourhan_897?igsh=YzZxejZxcWc1Z2No" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="35" />
   </a>
-  <a href="لينك_الواتساب" target="_blank">
+  <a href="https://wa.me/201099952041?text=Hello, I'm interested in your services" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-jpg/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="35" width="35" />
   </a>
-  <a href="لينك_الجيميل" target="_blank">
+  <a href="mailto:nourhanessam897@gmail.com?subject=Project Inquiry" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="35" width="35" />
   </a>
 </p>
