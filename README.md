@@ -14,6 +14,16 @@
   <a href="mailto:nourhanessam897@gmail.com?subject=Project Inquiry" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
+
+  <!-- Instagram Badge -->
+<a href="https://www.instagram.com/nourhan_897?igsh=YzZxejZxcWc1Z2No" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+</a>
+
+<!-- TikTok Badge -->
+<a href="https://vt.tiktok.com/ZS4GV1XJ3/" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok">
+</a>
 </div>
 
 ###
