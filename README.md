@@ -6,23 +6,23 @@
 <div align="center">
   <p align="center">
     <a href="https://www.linkedin.com/in/norhan-essam-552aa0252/" target="_blank">
-      <img src="https://img.shields.io/badge/-%20-%0A?style=social&logo=linkedin&logoWidth=35" alt="LinkedIn" />
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="40" height="40" alt="LinkedIn" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.tiktok.com/music/original-sound-7669555275086564097?is_from_webapp=1&sender_device=pc" target="_blank">
-      <img src="https://img.shields.io/badge/-%20-%0A?style=social&logo=tiktok&logoWidth=35" alt="TikTok" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tiktok/tiktok-original.svg" width="40" height="40" alt="TikTok" style="filter: invert(100%);" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/nourhan_897?igsh=YzZxejZxcWc1Z2No" target="_blank">
-      <img src="https://img.shields.io/badge/-%20-%0A?style=social&logo=instagram&logoWidth=35" alt="Instagram" />
+      <img src="https://upload.wikimedia.down/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40" height="40" alt="Instagram" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://wa.me/201099952041?text=Hello, I'm interested in your services" target="_blank">
-      <img src="https://img.shields.io/badge/-%20-%0A?style=social&logo=whatsapp&logoWidth=35" alt="WhatsApp" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" height="40" alt="WhatsApp" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:nourhanessam897@gmail.com?subject=Project Inquiry" target="_blank">
-      <img src="https://img.shields.io/badge/-%20-%0A?style=social&logo=gmail&logoWidth=35" alt="Gmail" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40" alt="Gmail" />
     </a>
   </p>
   <br><br>
