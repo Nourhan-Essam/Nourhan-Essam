@@ -10,11 +10,11 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.tiktok.com/music/original-sound-7669555275086564097?is_from_webapp=1&sender_device=pc" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tiktok/tiktok-original.svg" width="40" height="40" alt="TikTok" style="filter: invert(100%);" />
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tiktok.svg" width="40" height="40" alt="TikTok" style="filter: invert(100%);" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/nourhan_897?igsh=YzZxejZxcWc1Z2No" target="_blank">
-      <img src="https://upload.wikimedia.down/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40" height="40" alt="Instagram" />
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="40" height="40" alt="Instagram" style="filter: drop-shadow(0px 0px 2px #E4405F);" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://wa.me/201099952041?text=Hello, I'm interested in your services" target="_blank">
