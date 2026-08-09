@@ -7,23 +7,23 @@
 <div align="center">
   <p align="center">
     <a href="https://www.linkedin.com/in/norhan-essam-552aa0252/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="filter: invert(30%) sepia(95%) saturate(1750%) hue-rotate(190deg) brightness(95%) contrast(101%);" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.tiktok.com/music/original-sound-7669555275086564097?is_from_webapp=1&sender_device=pc" target="_blank">
-      <img src="https://img.shields.io/badge/-TikTok-%23000000?style=flat&logo=tiktok&logoColor=white" height="40" alt="TikTok" />
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tiktok.svg" alt="TikTok" width="40" height="40" style="filter: invert(100%);" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/nourhan_897?igsh=YzZxejZxcWc1Z2No" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" height="40" alt="Instagram" />
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" alt="Instagram" width="40" height="40" style="filter: invert(45%) sepia(97%) saturate(1000%) hue-rotate(310deg) brightness(95%) contrast(105%);" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://wa.me/201099952041?text=Hello, I'm interested in your services" target="_blank">
-      <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=flat&logo=whatsapp&logoColor=white" height="40" alt="WhatsApp" />
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/whatsapp.svg" alt="WhatsApp" width="40" height="40" style="filter: invert(55%) sepia(85%) saturate(550%) hue-rotate(90deg) brightness(95%) contrast(101%);" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:nourhanessam897@gmail.com?subject=Project Inquiry" target="_blank">
-      <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=flat&logo=gmail&logoColor=white" height="40" alt="Gmail" />
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Gmail" width="40" height="40" style="filter: invert(40%) sepia(98%) saturate(1500%) hue-rotate(345deg) brightness(95%) contrast(105%);" />
     </a>
   </p>
   <br><br>
