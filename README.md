@@ -7,27 +7,28 @@
 <div align="center">
   <p align="center">
     <a href="https://www.linkedin.com/in/norhan-essam-552aa0252/" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="32" />
+      <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.tiktok.com/music/original-sound-7669555275086564097?is_from_webapp=1&sender_device=pc" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="TikTok" height="32" width="32" />
+      <img src="https://skillicons.dev/icons?i=tiktok" height="35" alt="TikTok" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/nourhan_897?igsh=YzZxejZxcWc1Z2No" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="32" width="32" />
+      <img src="https://skillicons.dev/icons?i=instagram" height="35" alt="Instagram" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://wa.me/201099952041?text=Hello, I'm interested in your services" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="32" width="32" />
+      <img src="https://skillicons.dev/icons?i=whatsapp" height="35" alt="WhatsApp" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:nourhanessam897@gmail.com?subject=Project Inquiry" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="32" width="32" />
+      <img src="https://skillicons.dev/icons?i=gmail" height="35" alt="Gmail" />
     </a>
   </p>
   <br>
 </div>
+      
 
 ###
 
