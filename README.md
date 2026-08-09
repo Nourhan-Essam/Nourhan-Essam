@@ -3,27 +3,26 @@
 </div>
 
 ###
-
 <div align="center">
   <p align="center">
     <a href="https://www.linkedin.com/in/norhan-essam-552aa0252/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="filter: invert(30%) sepia(95%) saturate(1750%) hue-rotate(190deg) brightness(95%) contrast(101%);" />
+      <img src="https://img.shields.io/badge/-%20-%0A?style=social&logo=linkedin&logoWidth=35" alt="LinkedIn" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.tiktok.com/music/original-sound-7669555275086564097?is_from_webapp=1&sender_device=pc" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tiktok.svg" alt="TikTok" width="40" height="40" style="filter: invert(100%);" />
+      <img src="https://img.shields.io/badge/-%20-%0A?style=social&logo=tiktok&logoWidth=35" alt="TikTok" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/nourhan_897?igsh=YzZxejZxcWc1Z2No" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" alt="Instagram" width="40" height="40" style="filter: invert(45%) sepia(97%) saturate(1000%) hue-rotate(310deg) brightness(95%) contrast(105%);" />
+      <img src="https://img.shields.io/badge/-%20-%0A?style=social&logo=instagram&logoWidth=35" alt="Instagram" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://wa.me/201099952041?text=Hello, I'm interested in your services" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/whatsapp.svg" alt="WhatsApp" width="40" height="40" style="filter: invert(55%) sepia(85%) saturate(550%) hue-rotate(90deg) brightness(95%) contrast(101%);" />
+      <img src="https://img.shields.io/badge/-%20-%0A?style=social&logo=whatsapp&logoWidth=35" alt="WhatsApp" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:nourhanessam897@gmail.com?subject=Project Inquiry" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Gmail" width="40" height="40" style="filter: invert(40%) sepia(98%) saturate(1500%) hue-rotate(345deg) brightness(95%) contrast(105%);" />
+      <img src="https://img.shields.io/badge/-%20-%0A?style=social&logo=gmail&logoWidth=35" alt="Gmail" />
     </a>
   </p>
   <br><br>
